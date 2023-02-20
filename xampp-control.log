@@ -1,0 +1,146 @@
+19:42:22  [main] 	Initializing Control Panel
+19:42:22  [main] 	Windows Version:  Enterprise  64-bit
+19:42:22  [main] 	XAMPP Version: 7.3.27
+19:42:22  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:42:22  [main] 	You are not running with administrator rights! This will work for
+19:42:22  [main] 	most application stuff but whenever you do something with services
+19:42:22  [main] 	there will be a security dialogue or things will break! So think 
+19:42:22  [main] 	about running this application with administrator rights!
+19:42:22  [main] 	XAMPP Installation Directory: "d:\xampp\"
+19:42:23  [main] 	Checking for prerequisites
+19:42:32  [main] 	All prerequisites found
+19:42:32  [main] 	Initializing Modules
+19:42:32  [main] 	Starting Check-Timer
+19:42:32  [main] 	Control Panel Ready
+19:44:32  [Apache] 	Attempting to start Apache app...
+19:44:32  [Apache] 	Status change detected: running
+19:44:58  [Apache] 	Attempting to stop Apache (PID: 900)
+19:44:58  [Apache] 	Attempting to stop Apache (PID: 9096)
+19:44:58  [Apache] 	Status change detected: stopped
+20:58:37  [Apache] 	Attempting to start Apache app...
+20:58:37  [Apache] 	Status change detected: running
+23:27:49  [main] 	Deinitializing Modules
+23:27:49  [main] 	Deinitializing Control Panel
+
+20:00:16  [main] 	Initializing Control Panel
+20:00:16  [main] 	Windows Version:  Enterprise  64-bit
+20:00:16  [main] 	XAMPP Version: 7.3.27
+20:00:16  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+20:00:16  [main] 	Running with Administrator rights - good!
+20:00:16  [main] 	XAMPP Installation Directory: "d:\xampp\"
+20:00:16  [main] 	Checking for prerequisites
+20:00:16  [main] 	All prerequisites found
+20:00:16  [main] 	Initializing Modules
+20:00:16  [main] 	Starting Check-Timer
+20:00:16  [main] 	Control Panel Ready
+20:00:18  [Apache] 	Attempting to start Apache app...
+20:00:18  [Apache] 	Status change detected: running
+20:08:13  [main] 	Executing "d:\xampp\apache"
+20:26:20  [Apache] 	Attempting to stop Apache (PID: 6768)
+20:26:20  [Apache] 	Attempting to stop Apache (PID: 8844)
+20:26:20  [Apache] 	Status change detected: stopped
+20:26:24  [Apache] 	Problem detected!
+20:26:24  [Apache] 	Port 80 in use by "C:\Program Files\nodejs\node.exe" with PID 7072!
+20:26:24  [Apache] 	Apache WILL NOT start without the configured ports free!
+20:26:24  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+20:26:24  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+20:26:24  [Apache] 	Attempting to start Apache app...
+20:26:24  [Apache] 	Status change detected: running
+20:27:48  [Apache] 	Attempting to stop Apache (PID: 9256)
+20:27:48  [Apache] 	Attempting to stop Apache (PID: 10032)
+20:27:49  [Apache] 	Status change detected: stopped
+20:27:51  [Apache] 	Installing service...
+20:27:52  [Apache] 	Successful!
+20:27:55  [Apache] 	Problem detected!
+20:27:55  [Apache] 	Port 80 in use by "C:\Program Files\nodejs\node.exe" with PID 7072!
+20:27:55  [Apache] 	Apache WILL NOT start without the configured ports free!
+20:27:55  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+20:27:55  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+20:27:55  [Apache] 	Attempting to start Apache service...
+20:28:00  [Apache] 	Status change detected: running
+20:30:41  [Apache] 	Attempting to stop Apache service...
+20:30:43  [Apache] 	Status change detected: stopped
+20:30:46  [main] 	Deinitializing Modules
+20:30:46  [main] 	Deinitializing Control Panel
+
+20:30:55  [main] 	Initializing Control Panel
+20:30:55  [main] 	Windows Version:  Enterprise  64-bit
+20:30:55  [main] 	XAMPP Version: 7.3.27
+20:30:55  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+20:30:55  [main] 	Running with Administrator rights - good!
+20:30:55  [main] 	XAMPP Installation Directory: "d:\xampp\"
+20:30:55  [main] 	Checking for prerequisites
+20:30:55  [main] 	All prerequisites found
+20:30:55  [main] 	Initializing Modules
+20:30:55  [Apache] 	Problem detected!
+20:30:55  [Apache] 	Port 80 in use by "C:\Program Files\nodejs\node.exe" with PID 7072!
+20:30:55  [Apache] 	Apache WILL NOT start without the configured ports free!
+20:30:55  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+20:30:55  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+20:30:55  [main] 	Enabling autostart for module "Apache"
+20:30:55  [main] 	Starting Check-Timer
+20:30:55  [main] 	Control Panel Ready
+20:30:55  [Apache] 	Autostart active: starting...
+20:30:55  [Apache] 	Problem detected!
+20:30:55  [Apache] 	Port 80 in use by "C:\Program Files\nodejs\node.exe" with PID 7072!
+20:30:55  [Apache] 	Apache WILL NOT start without the configured ports free!
+20:30:55  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+20:30:55  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+20:30:55  [Apache] 	Attempting to start Apache service...
+20:30:56  [Apache] 	Status change detected: running
+20:31:00  [Apache] 	Attempting to stop Apache service...
+20:31:03  [Apache] 	Status change detected: stopped
+20:31:05  [Apache] 	Problem detected!
+20:31:05  [Apache] 	Port 80 in use by "C:\Program Files\nodejs\node.exe" with PID 7072!
+20:31:05  [Apache] 	Apache WILL NOT start without the configured ports free!
+20:31:05  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+20:31:05  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+20:31:05  [Apache] 	Attempting to start Apache service...
+20:31:06  [Apache] 	Status change detected: running
+20:31:09  [Apache] 	Attempting to stop Apache service...
+20:31:12  [Apache] 	Status change detected: stopped
+20:31:24  [Apache] 	Attempting to start Apache service...
+20:31:25  [Apache] 	Status change detected: running
+20:52:55  [Apache] 	Attempting to stop Apache service...
+20:52:58  [Apache] 	Status change detected: stopped
+20:53:01  [Apache] 	Attempting to start Apache service...
+20:53:01  [Apache] 	Status change detected: running
+21:15:18  [main] 	Deinitializing Modules
+21:15:18  [main] 	Deinitializing Control Panel
+
+12:11:30  [main] 	Initializing Control Panel
+12:11:30  [main] 	Windows Version:  Enterprise  64-bit
+12:11:31  [main] 	XAMPP Version: 7.3.27
+12:11:31  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:11:31  [main] 	Running with Administrator rights - good!
+12:11:31  [main] 	XAMPP Installation Directory: "d:\xampp\"
+12:11:31  [main] 	Checking for prerequisites
+12:11:57  [main] 	All prerequisites found
+12:11:57  [main] 	Initializing Modules
+12:11:57  [Apache] 	XAMPP Apache Service is already running on port 443
+12:11:57  [main] 	Enabling autostart for module "Apache"
+12:11:57  [main] 	Starting Check-Timer
+12:11:57  [main] 	Control Panel Ready
+12:11:58  [Apache] 	Autostart aborted: Apache is already running
+21:04:57  [main] 	Deinitializing Modules
+21:04:57  [main] 	Deinitializing Control Panel
+
+14:41:32  [main] 	Initializing Control Panel
+14:41:32  [main] 	Windows Version:  Enterprise  64-bit
+14:41:32  [main] 	XAMPP Version: 7.3.27
+14:41:32  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:41:32  [main] 	Running with Administrator rights - good!
+14:41:32  [main] 	XAMPP Installation Directory: "d:\xampp\"
+14:41:32  [main] 	Checking for prerequisites
+14:41:47  [main] 	All prerequisites found
+14:41:47  [main] 	Initializing Modules
+14:41:47  [Apache] 	XAMPP Apache Service is already running on port 443
+14:41:47  [main] 	Enabling autostart for module "Apache"
+14:41:47  [main] 	Starting Check-Timer
+14:41:47  [main] 	Control Panel Ready
+14:41:47  [Apache] 	Autostart aborted: Apache is already running
+15:09:39  [Apache] 	Attempting to stop Apache service...
+15:09:42  [Apache] 	Status change detected: stopped
+15:16:38  [main] 	Deinitializing Modules
+15:16:38  [main] 	Deinitializing Control Panel
+
